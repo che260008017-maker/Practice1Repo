@@ -29,8 +29,8 @@ while True:
 			print("HALT")
 			break;
 	else:
-		break
+		break;
 
 
-print("End of Execution")
-
+print("End of Execution");
+print("CHANGE");
